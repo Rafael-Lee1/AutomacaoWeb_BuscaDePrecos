@@ -21,7 +21,7 @@
 
 - Planilha de Produtos, com os nomes dos produtos, o preço máximo, o preço mínimo (para evitar produtos "errados" ou "baratos de mais para ser verdade" e os termos que vou querer evitar nas nossas buscas.
 
-### O que devemos fazer:
+### O que devo fazer:
 
 - Procurar cada produto no Google Shopping e pegar todos os resultados que tenham preço dentro da faixa e sejam os produtos corretos
 - O mesmo para o Buscapé
